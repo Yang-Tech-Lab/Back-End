@@ -1,7 +1,7 @@
 
 #High-Performance Infra & Backend Stack
 
-##Core Language
+#Core Language
 - Go (Golang) - Highly Concurrent Systems
 
 ##OS & Containerization
